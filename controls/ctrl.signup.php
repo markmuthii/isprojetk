@@ -59,10 +59,10 @@ if (isset($_POST["signup"])) {
 				// $mail->Password = G_PASS;
 				// $mail->SMTPSecure = "tls";
 				// $mail->setFrom(G_UNAME);
-				$mail->setFrom("no-reply@isproje.tk", "Mark at IsProje.tk");
+				$mail->setFrom(E_FROM, E_FROM_NAME);
 				$mail->addAddress($email, $firstname . " " . $lastname);
-				$mail->addReplyTo("mark@isproje.tk", "Mark at IsProje.tk");
-				$mail->Subject = "IS Proje.Tk Email Verification";
+				$mail->addReplyTo(E_REPLY_TO, E_REPLY_TO_NAME);
+				$mail->Subject = E_SUBJECT;
 				$mail->isHTML(true);
 				$mail->Body = "
 					Hello $firstname, <br><br>

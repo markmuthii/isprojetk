@@ -17,6 +17,13 @@ define("DB_PASS", "password");
 //database name
 define("DB_NAME", "isprojetk");
 
+//EMAIL CONFIGURATION
+
+define("E_FROM", "email@yourdomain.com");
+define("E_FROM_NAME", "Your name");
+define("E_REPLY_TO", "email@yourdomain.com");
+define("E_REPLY_TO_NAME", "Your name");
+define("E_SUBJECT", "Email subject")
 
 //IF USING SMTP FOR SENDING MAIL
 
