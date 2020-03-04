@@ -24,5 +24,7 @@ Import the sql file found in the ```mysql/``` to your database, and enjoy.
 
 If you run into any issues, reach out on Twitter [@muthiimm](https://twitter.com/muthiimm).
 
-I use [000Webhost](000webhost.com) for testing. For a more reliable hosting provider, I recommend [Bluehost](https://markmuthii.com/go/bluehost) _(affiliate link)_, whose hosting packages come with a free domain. 
+Some of the functionalities in this project require it to be hosted. For a reliable hosting provider, I recommend [Bluehost](https://bluehost.com/track/markmuthii) _(affiliate link)_, whose hosting packages come with a free domain. 
+
+NOTE: This code has not been sensitized to protect against attacks such as XSS.
 
