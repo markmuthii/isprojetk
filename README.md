@@ -6,6 +6,8 @@ This is a very old and insecure system whose code I wrote in my early days of le
 
 I am just leaving it here as a museum of sorts.
 
+End update.
+
 <hr>
 
 This repos holds the code for [http://isproje.tk](http://isproje.tk).
