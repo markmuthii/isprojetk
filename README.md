@@ -10,7 +10,7 @@ End update.
 
 <hr>
 
-This repos holds the code for [http://isproje.tk](http://isproje.tk).
+This repos holds the code for [http://isproje.tk](http://isproje.tk) (Update: domain no longer works).
 
 It contains code for a functioning user authentication system, complete with email confirmation.
 
