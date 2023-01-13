@@ -2,7 +2,7 @@
 
 ## UPDATE:
 
-This is a very old and insecure system whose code I wrote in my early days of learning PHP. Not sure how you've stumbled upon it, but here you are. Do not use the code contained herein, unless it for learning purposes, as it is vulnerable to just about all web exploits known :).
+This is a very old and insecure system whose code I wrote in my early days of learning PHP. Not sure how you've stumbled upon it, but here you are. Do not use the code contained herein, unless it is for learning purposes, as it is vulnerable to just about all web exploits known :).
 
 I am just leaving it here as a museum of sorts.
 
